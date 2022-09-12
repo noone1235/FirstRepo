@@ -12,7 +12,7 @@ public class HelloWorldController {
 	//http://localhost:8080/helloWorld
 	@GetMapping("/helloWorld")
 	public String helloworld() {
-		return "Hello World!!! whats up baby";
+		return "Hello World!!! whats up baby  and babies";
 	}
 
 }
